@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Love!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff69b4;
+            font-size: 2.5em;
+        }
+        .photo {
+            margin: 20px 0;
+        }
+        .photo img {
+            width: 80%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+        .poem {
+            font-style: italic;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Birthday, Love!</h1>
+        <div class="photo">
+            <img src="path_to_your_image.jpg" alt="Your Special Moment">
+        </div>
+        <div class="poem">
+            <p>It’s not an earth shattering realisation<br>
+                Seeing you move across the room,<br>
+                Saying hi to your friends<br>
+                That were also my friends,<br>
+                That somehow became ours<br>
+                Before either of us noticed.</p>
+
+            <p>It’s not an earth shattering feeling<br>
+                This love I have for you<br>
+                That grew in small, ordinary moments<br>
+                Like the day I sat with you to study,<br>
+                Me escaping my own responsibilities<br>
+                Just to be next to you.<br>
+                We barely spoke,<br>
+                But the silence felt warm,<br>
+                Steady,<br>
+                Comforting in a way I didn’t expect.<br>
+                Just being near you<br>
+                Was its own kind of peace.</p>
+
+            <p>It’s not an earth shattering thing<br>
+                How the quiet with you<br>
+                Never feels empty.<br>
+                It’s soft and full,<br>
+                Like a space that holds us gently.<br>
+                Your hand fits perfectly in mine,<br>
+                And<br>
+                And<br>
+                In every small moment with you<br>
+                I find myself wanting more<br>
+                More days, more pages,<br>
+                More chapters with you beside me.</p>
+
+            <p>It’s not an earth shattering realisation<br>
+                That I want forever and more with you.<br>
+                It feels natural, inevitable —<br>
+                Like choosing you is the easiest thing<br>
+                My heart has ever done.</p>
+
+            <p>Happy Birthday, Love.<br>
+                Thank you for being here.</p>
+        </div>
+    </div>
+</body>
+</html>
